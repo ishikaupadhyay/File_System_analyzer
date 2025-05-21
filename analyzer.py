@@ -125,3 +125,4 @@ if __name__ == '__main__':
     root = tk.Tk()
     app = FileSystemAnalyzerApp(root)
     root.mainloop()
+#file can be converted to :CSV or JSON as per the requirments !
